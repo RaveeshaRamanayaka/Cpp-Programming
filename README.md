@@ -1,2 +1,2 @@
 # Cpp-Programming
-This contains my self-studies in C++ programming language
+This contains activities in C++ programming language
