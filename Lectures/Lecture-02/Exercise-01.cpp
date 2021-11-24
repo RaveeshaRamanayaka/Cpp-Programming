@@ -1,6 +1,7 @@
 // Exercise  01
 
-/* Write a C++ program to input the length and the width
+/*
+   Write a C++ program to input the length and the width
    of a rectangle and calculate and print the perimeter.
 */
 
