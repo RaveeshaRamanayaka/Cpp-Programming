@@ -1,5 +1,5 @@
-/* "iostream" is a header file that contains
-* functions for input/output operations ( cin and cout )
+/* 
+   "iostream" is a header file that contains functions for input/output operations ( cin and cout )
 */
 #include <iostream>
 
