@@ -1,8 +1,7 @@
 // Exercise  02
 
-/* Modify the program that was written to calculate the
-   perimeter and area of a circle to display the
-   results using two decimal places.
+/* 
+   Modify the program that was written to calculate the perimeter and area of a circle to display the results using two decimal places.
 */
 
 #include <iostream>
