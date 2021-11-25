@@ -1,8 +1,7 @@
 // Exercise  04
 
-/* Display number 1000,900,800,700,… 100 Using a
-   while loop, do while loop and a for loop
-   within the same program.
+/*
+   Display number 1000,900,800,700,… 100 Using a while loop, do while loop and a for loop within the same program.
 */
 
 #include <iostream>
