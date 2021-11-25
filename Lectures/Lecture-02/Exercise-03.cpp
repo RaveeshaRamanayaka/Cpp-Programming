@@ -1,8 +1,7 @@
 // Exercise 03
 
-/* Write a C++ program to input the total price
-   to be paid by a customer and calculate the
-   discount according to the chart below.
+/*
+   Write a C++ program to input the total price to be paid by a customer and calculate the discount according to the chart below.
 */
 
 /* CONDITIONS
