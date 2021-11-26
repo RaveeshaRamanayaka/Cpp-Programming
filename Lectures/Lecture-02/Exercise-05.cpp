@@ -2,11 +2,9 @@
 
 /* 
 
-• Modify the EX03 to input details of 3 customers and
-    calculate the total discount amount given.
+• Modify the EX03 to input details of 3 customers and calculate the total discount amount given.
    • What would you do if you want to continue entering prices until -1 is entered ?
-   • What would you do if you want to enter data until user enters
-    ‘y’ to continue and ‘n’ to stop?
+   • What would you do if you want to enter data until user enters ‘y’ to continue and ‘n’ to stop?
 */
 
 #include<iostream>
