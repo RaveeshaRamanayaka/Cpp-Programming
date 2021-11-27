@@ -1,4 +1,5 @@
-/*  Write a C++ program to input the length and the width of a rectangle and find and print the area.
+/*  
+    Write a C++ program to input the length and the width of a rectangle and find and print the area.
 */
 
 #include<iostream>
